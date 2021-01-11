@@ -1,0 +1,32 @@
+
+.dragon-card{
+    border: 0;
+    box-shadow:5px 5px 10px lightgrey!important;
+}
+.dragon-card-watch,.dragon-card-bags,.dragon-card-shoes{ color: white;
+    border-radius: 15px!important;
+}
+
+.dragon-card-bags{
+background-color: #DA70D6!important;
+}
+.dragon-card-shoes{
+background-color: blue!important;
+}
+
+.catagories{
+    
+}
+.catagories img {
+    width: 100px;
+} 
+.dragon-slide .carousel-inner {
+    background-color: #FCEAE8;
+    border-radius: 1.5em;
+    margin-top: 8rem;
+}
+.contact-us {
+    background-color: #FCEAE8;
+    height: 300px;
+    border-radius: 10px;
+}
